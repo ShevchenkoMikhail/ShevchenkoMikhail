@@ -1,4 +1,9 @@
-## Hi there 👋
+*A small step now is better than a giant leap tomorrow.*
+## Greetings, I’m Michael 👋
+I’m an IT enthusiast aiming to become a **Chief Technology Officer** & **Solutions Architect**.  
+I explore everything from programming languages and Linux administration to building my own AI.
+
+
 
 <!--
 **ShevchenkoMikhail/ShevchenkoMikhail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
